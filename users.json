@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nama": "Muhammad Ariq Lubis",
+        "email": "ariqcoba1@gmail.com",
+        "password": "$2y$10$3G37tfOv762EIOA8ocm6eugt5AWTO2Y0x/JuCXU4Q1V3lG3.XOdES"
+    },
+    {
+        "id": 2,
+        "nama": "Andro",
+        "email": "androcoba@gmail.com",
+        "password": "$2y$10$Y4pazQ3o6/q6TlDf4WTqseN3g2OyDcK5hsuptBk.0X6WIwbLynbzm"
+    }
+]
